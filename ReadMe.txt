@@ -1,15 +1,14 @@
 CONTROL:
-กü:  ROTATE
-กý:  MOVE DOWNWARD
-ก๛: MOVE LEFTWARD
-ก๚: MOVE RIGHTWARD
+ยกรผ:  ROTATE
+ยกรฝ:  MOVE DOWNWARD
+ยกรป: MOVE LEFTWARD
+ยกรบ: MOVE RIGHTWARD
 SPACE: PAUSE
 R: RESTART
 
 * Requires Microsoft .NET Framework 2.0 installed.
 
 Any suggestions please send to:
-fancheng33@hotmail.com
 
 KENSHIN
 2007.04.27
